@@ -2,7 +2,7 @@ package br.com.nogueiranogueira.aularefatoracao.solidproject.service;
 
 import br.com.nogueiranogueira.aularefatoracao.solidproject.dto.UsuarioDTO;
 import br.com.nogueiranogueira.aularefatoracao.solidproject.model.Usuario;
-import br.com.nogueiranogueira.aularefatoracao.solidproject.model.regra.RegraUsuario;
+import br.com.nogueiranogueira.aularefatoracao.solidproject.business.RegraUsuario;
 import br.com.nogueiranogueira.aularefatoracao.solidproject.repository.UsuarioCrudRepository;
 import org.springframework.stereotype.Service;
 

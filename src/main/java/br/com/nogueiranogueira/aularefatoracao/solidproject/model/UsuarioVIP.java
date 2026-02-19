@@ -1,6 +1,6 @@
 package br.com.nogueiranogueira.aularefatoracao.solidproject.model;
 
-import br.com.nogueiranogueira.aularefatoracao.solidproject.model.regra.Descontavel;
+import br.com.nogueiranogueira.aularefatoracao.solidproject.business.Descontavel;
 import jakarta.persistence.DiscriminatorValue;
 import jakarta.persistence.Entity;
 

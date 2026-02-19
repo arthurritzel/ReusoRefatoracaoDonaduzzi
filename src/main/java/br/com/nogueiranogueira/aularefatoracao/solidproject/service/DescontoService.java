@@ -1,7 +1,7 @@
 package br.com.nogueiranogueira.aularefatoracao.solidproject.service;
 
 import br.com.nogueiranogueira.aularefatoracao.solidproject.model.Usuario;
-import br.com.nogueiranogueira.aularefatoracao.solidproject.model.regra.Descontavel;
+import br.com.nogueiranogueira.aularefatoracao.solidproject.business.Descontavel;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
